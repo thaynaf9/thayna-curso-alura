@@ -1,2 +1,2 @@
-# thayna-curso-alura
+# Thayna-curso-alura
 Matérias produzidas pelo alura 
